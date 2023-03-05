@@ -24,7 +24,7 @@
 
 * `cd GIFT-CDS-ROBIN`
 
-* `python CDSROBIN.py`
+* `python ROBINCDS.py`
 
 
 ___This Tool is Free Enjoy Dear User.___</br>
